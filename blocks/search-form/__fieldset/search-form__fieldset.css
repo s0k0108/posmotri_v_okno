@@ -1,0 +1,8 @@
+.search-form__fieldset {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: flex;
+    flex-direction: column;
+}

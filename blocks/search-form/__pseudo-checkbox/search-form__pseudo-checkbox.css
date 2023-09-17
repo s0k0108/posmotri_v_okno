@@ -1,0 +1,26 @@
+.search-form__pseudo-checkbox {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0 0 0 24px;
+    position: relative;
+    cursor: pointer;
+}
+
+.search-form__pseudo-checkbox::before {
+    content: "";
+    width: 19px;
+    height: 19px;
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: transparent;
+}
+
+.search-form__checkbox:checked + .search-form__pseudo-checkbox::before {
+    background-image: linear-gradient(#fff, #fff);
+    background-size: 16px 16px;
+    background-position: center;
+    background-repeat: no-repeat;
+}

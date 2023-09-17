@@ -1,0 +1,8 @@
+.content__video-card-thumbnail {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    width: 194px;
+    height: 103px;
+    object-fit: cover;
+}

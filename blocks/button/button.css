@@ -1,0 +1,30 @@
+.button {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    border: 1px solid #fff;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 700;
+    font-style: normal;
+    cursor: pointer;
+}
+
+.button:hover {
+    text-decoration: underline;
+}
+
+.button:active {
+    text-decoration: none;
+    background-color: #545050;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:focus-visible {
+    outline: 1px solid #fff;
+}

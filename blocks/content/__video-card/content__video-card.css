@@ -1,0 +1,8 @@
+.content__video-card {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 2px;
+    display: flex;
+    align-items: start;
+    width: 100%;
+}

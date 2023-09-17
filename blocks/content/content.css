@@ -1,0 +1,9 @@
+.content {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 711px 399px;
+    gap: 30px;
+    align-items: start;
+}

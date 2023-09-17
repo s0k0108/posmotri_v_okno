@@ -1,0 +1,10 @@
+.search-form__fieldset-title {
+    box-sizing: border-box;
+    margin: 0 0 5px;
+    padding: 0;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+    font-style: normal;
+}

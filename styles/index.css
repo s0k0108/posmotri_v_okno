@@ -1,0 +1,41 @@
+@import "../fonts/fonts.css";
+
+@import "../blocks/error/error.css";
+
+@import "../blocks/preloader/preloader.css";
+
+@import "../blocks/visually-hidden/visually-hidden.css";
+
+@import "../blocks/page/page.css";
+
+@import "../blocks/content/content.css";
+@import "../blocks/content/__details/content__details.css";
+@import "../blocks/content/__list/content__list.css";
+@import "../blocks/content/__list-item/content__list-item.css";
+@import "../blocks/content/__card-link/content__card-link.css";
+@import "../blocks/content/__video-card/content__video-card.css";
+@import "../blocks/content/__video-card-thumbnail/content__video-card-thumbnail.css";
+@import "../blocks/content/__video-card-description-container/content__video-card-description-container.css";
+@import "../blocks/content/__video-card-title/content__video-card-title.css";
+@import "../blocks/content/__video-card-description/content__video-card-description.css";
+@import "../blocks/content/__accent/content__accent.css";
+
+@import "../blocks/search-form/search-form.css";
+@import "../blocks/search-form/__fieldset/search-form__fieldset.css";
+@import "../blocks/search-form/__fieldset-title/search-form__fieldset-title.css";
+@import "../blocks/search-form/__textfield/search-form__textfield.css";
+@import "../blocks/search-form/__checkbox-list/search-form__checkbox-list.css";
+@import "../blocks/search-form/__label/search-form__label.css";
+@import "../blocks/search-form/__label-text/search-form__label-text.css";
+@import "../blocks/search-form/__pseudo-checkbox/search-form__pseudo-checkbox.css";
+@import "../blocks/search-form/__submit-button/search-form__submit-button.css";
+
+@import "../blocks/result/result.css";
+@import "../blocks/result/__video-container/result__video-container.css";
+@import "../blocks/result/__video/result__video.css";
+
+@import "../blocks/title/title.css";
+
+@import "../blocks/button/button.css";
+
+@import "../blocks/more-button/more-button.css";
