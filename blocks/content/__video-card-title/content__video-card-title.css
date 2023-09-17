@@ -9,7 +9,4 @@
     line-height: 100%;
     text-transform: uppercase;
     color: #fff;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
 }

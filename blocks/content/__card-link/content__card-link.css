@@ -1,23 +1,26 @@
 .content__card-link {
     box-sizing: border-box;
-    margin: 0;
+    margin: 2px;
     padding: 0;
     text-decoration: none;
+    width: 100%;
 }
 
-.content__card-link:active .content__video-card {
-    background-color: #545050;
-}
 
 .content__card-link:hover  {
     text-decoration: underline;
     color: #fff;
 }
 
-.button:focus {
+.content__card-link:active {
+    background-color: #545050;
+    text-decoration: none;
+}
+
+.content__card-link:focus {
     outline: none;
 }
 
-.button:focus-visible {
+.content__card-link:focus-visible {
     outline: 1px solid #fff;
 }
