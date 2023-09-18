@@ -13,6 +13,7 @@
 @import "../blocks/content/__list/content__list.css";
 @import "../blocks/content/__list-item/content__list-item.css";
 @import "../blocks/content/__card-link/content__card-link.css";
+@import "../blocks/content/__card-link/_current/content__card-link_current.css";
 @import "../blocks/content/__video-card/content__video-card.css";
 @import "../blocks/content/__video-card-thumbnail/content__video-card-thumbnail.css";
 @import "../blocks/content/__video-card-description-container/content__video-card-description-container.css";
