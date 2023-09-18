@@ -9,8 +9,5 @@
     line-height: 100%;
     text-transform: uppercase;
     color: #fff;
-    /* Это правило добавлено на тот случай если придет город с длинным названием например Петропавловск-Камчатский */
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    word-wrap: break-word;
 }

@@ -7,4 +7,6 @@
     gap: 26px;
     justify-content: space-between;
     height: 100%;
+    flex-grow: 1;
+    width: 100%;
 }

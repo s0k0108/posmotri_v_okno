@@ -10,14 +10,14 @@
     min-height: 27px;
     appearance: none;
     color: #fff;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .search-form__textfield::placeholder {
-    font-family: 'Fira Sans Condensed', sans-serif;
-    font-size: 18px;
     color: rgba(255, 255, 255, 0.7);
-    font-weight: 400;
-    font-style: normal;
 }
 
 .search-form__textfield:active {

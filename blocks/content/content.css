@@ -2,8 +2,9 @@
     box-sizing: border-box;
     margin: auto;
     padding: 0;
-    display: grid;
-    grid-template-columns: 711px 399px;
+    display: flex;
     gap: 30px;
     align-items: start;
+    min-width: 1140px;
+    max-width: 1140px;
 }

@@ -1,11 +1,9 @@
 .content__video-card-description-container {
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 2px 0 0 2px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
     gap: 6px;
-    /* Это правило добавлено для на тот случай если придет город с длинным названием например Петропавловск-Камчатский */
-    overflow: hidden;
 }
